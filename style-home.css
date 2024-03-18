@@ -1,0 +1,48 @@
+.Uno{
+    padding-left: 30px;
+}
+
+img {
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+.Titulocentrado{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    
+}
+
+em strong{
+    color: blueviolet;
+}
+#Mision{
+    font-size: 20px;
+}
+
+.difereiales{
+    background: white;
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imgdiferenciales{
+    width: 50%;
+}
